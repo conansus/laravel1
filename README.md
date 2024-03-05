@@ -1,11 +1,2 @@
-# laravel1djsnvj
-na
-
-
-cdlskvnsk
-
-
-nckds
-
-
-test
+just trying out using vim :)
+-- Muhammad Akhram bin Suhaimy --
